@@ -1,0 +1,5 @@
+com.td.ui.test.ui-androidTest-0 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/ui/build/generated/res/resValues/androidTest/debug
+com.td.ui.test.ui-mergeDebugAndroidTestResources-1 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/ui/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.td.ui.test.ui-mergeDebugAndroidTestResources-2 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/ui/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.td.ui.test.ui-debugAndroidTest-3 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/ui/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.td.ui.test.ui-debug-4 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/ui/build/intermediates/packaged_res/debug/packageDebugResources

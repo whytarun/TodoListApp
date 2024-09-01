@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.td.designssystem-mergeDebugResources-41:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/tarunyekbote/.gradle/caches/transforms-4/9cdc41d9b153f0544a8230f2bcb5ed06/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.td.designssystem-debug-43:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/Users/tarunyekbote/.gradle/caches/transforms-4/9cdc41d9b153f0544a8230f2bcb5ed06/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}

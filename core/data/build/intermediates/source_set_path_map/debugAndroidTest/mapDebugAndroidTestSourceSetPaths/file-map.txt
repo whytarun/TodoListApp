@@ -1,0 +1,14 @@
+com.td.data.test.data-lifecycle-viewmodel-2.5.1-0 /Users/tarunyekbote/.gradle/caches/transforms-4/02ab06bdc28153dda07c6d73eaaa3437/transformed/lifecycle-viewmodel-2.5.1/res
+com.td.data.test.data-core-1.8.0-1 /Users/tarunyekbote/.gradle/caches/transforms-4/09d87c26cb62199405f87f2bccfc545f/transformed/core-1.8.0/res
+com.td.data.test.data-annotation-experimental-1.3.1-2 /Users/tarunyekbote/.gradle/caches/transforms-4/0c62f9ebdb95015dd553126724ef0fbf/transformed/annotation-experimental-1.3.1/res
+com.td.data.test.data-lifecycle-livedata-core-2.5.1-3 /Users/tarunyekbote/.gradle/caches/transforms-4/21f008a99700929d2a414406546b620d/transformed/lifecycle-livedata-core-2.5.1/res
+com.td.data.test.data-savedstate-1.2.0-4 /Users/tarunyekbote/.gradle/caches/transforms-4/308e0fadd481a9e8b619fd584e3a459a/transformed/savedstate-1.2.0/res
+com.td.data.test.data-fragment-1.5.1-5 /Users/tarunyekbote/.gradle/caches/transforms-4/77076fc0145e2fbf32e1485cf8c7d8fc/transformed/fragment-1.5.1/res
+com.td.data.test.data-lifecycle-viewmodel-savedstate-2.5.1-6 /Users/tarunyekbote/.gradle/caches/transforms-4/c292e34cee8b8582767ec5f06646aa3a/transformed/lifecycle-viewmodel-savedstate-2.5.1/res
+com.td.data.test.data-lifecycle-runtime-2.5.1-7 /Users/tarunyekbote/.gradle/caches/transforms-4/d9ac3c41739ecaed7a733390c20a2c34/transformed/lifecycle-runtime-2.5.1/res
+com.td.data.test.data-activity-1.5.1-8 /Users/tarunyekbote/.gradle/caches/transforms-4/ee195f9eb74d519b23402fa3173ed3b4/transformed/activity-1.5.1/res
+com.td.data.test.data-androidTest-9 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/data/build/generated/res/resValues/androidTest/debug
+com.td.data.test.data-mergeDebugAndroidTestResources-10 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/data/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.td.data.test.data-mergeDebugAndroidTestResources-11 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/data/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.td.data.test.data-debugAndroidTest-12 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/data/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
+com.td.data.test.data-debug-13 /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/data/build/intermediates/packaged_res/debug/packageDebugResources

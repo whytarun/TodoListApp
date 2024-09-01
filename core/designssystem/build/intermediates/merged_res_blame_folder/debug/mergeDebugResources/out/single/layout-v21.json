@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.td.designssystem-debug-43:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.td.designssystem-core-1.12.0-28:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.td.designssystem-debug-43:/layout-v21/notification_action.xml",
+        "source": "com.td.designssystem-core-1.12.0-28:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.td.designssystem-debug-43:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.td.designssystem-core-1.12.0-28:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.td.designssystem-debug-43:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.td.designssystem-core-1.12.0-28:/layout-v21/notification_template_custom_big.xml"
+    }
+]
