@@ -36,3 +36,10 @@ The app is structured using a multi-module architecture to promote modularity an
 ## Testing Strategy
 - **Unit Testing:** Uses JUnit and MockK for testing ViewModels and other components in isolation.
 - **UI Testing:** Employs Jetpack Compose testing tools to ensure the UI components work as expected.
+
+## App Preview
+<img width="321" alt="homescreen_todo" src="https://github.com/user-attachments/assets/09f17d5f-87d1-41e3-b7bf-cac6fe99c4ce">
+<img width="330" alt="addtask_todo" src="https://github.com/user-attachments/assets/e1132cd5-8d24-4b64-8713-3d4fe35feaa9">
+<img width="320" alt="searchscreen_todo" src="https://github.com/user-attachments/assets/f78b6ef9-df40-45a5-a097-a624596ef245">
+<img width="327" alt="Screenshot 2024-09-02 at 8 53 24 AM" src="https://github.com/user-attachments/assets/f215f7c9-1478-4506-8141-0f88596615c7">
+
