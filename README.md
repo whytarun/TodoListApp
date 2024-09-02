@@ -5,7 +5,7 @@ The TODO List App is a simple and intuitive application designed to help users m
 
 ## Key Features
 - **Add Tasks:** Users can easily add new tasks.
-- **Search Functionality:** Search for tasks by title or category.
+- **Search Functionality:** Search for tasks by title.
 
 ## Technical Requirements
 - **Android SDK:** Targeting Android API level 21 and above.
