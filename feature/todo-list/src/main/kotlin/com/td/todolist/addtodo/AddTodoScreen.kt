@@ -17,9 +17,11 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import com.td.todolist.util.UiEvent
+import com.td.designssystem.R
 
 @Composable
 fun AddTodoScreen(
@@ -71,7 +73,7 @@ fun AddTodoScreen(
                 },
                 modifier = Modifier.align(Alignment.CenterHorizontally)
             ) {
-                Text(text = "Add TODO")
+                Text(text = stringResource(R.string.add_todo))
             }
         }
 

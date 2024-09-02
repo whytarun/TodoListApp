@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<testsuite name="com.td.todolist.TodoListScreenTest" tests="1" failures="0" errors="0" skipped="0" time="1.631" timestamp="2024-09-02T02:51:52" hostname="localhost">
+  <properties>
+    <property name="device" value="Pixel_8_API_35(AVD) - 15" />
+    <property name="flavor" value="" />
+    <property name="project" value=":feature:todo-list" />
+  </properties>
+  <testcase name="testSearchTextFieldDisplayed" classname="com.td.todolist.TodoListScreenTest" time="0.962" />
+</testsuite>

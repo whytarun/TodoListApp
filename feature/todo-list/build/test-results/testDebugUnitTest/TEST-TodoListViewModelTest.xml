@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TodoListViewModelTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-02T02:58:13" hostname="tarun-ka-MacBook-Pro.local" time="0.059">
+  <properties/>
+  <testcase name="test initial state is not empty list" classname="TodoListViewModelTest" time="0.059"/>
+  <system-out><![CDATA[vales....[Todo(title=Sample Todo 1, id=1), Todo(title=Sample Todo 2, id=2)]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

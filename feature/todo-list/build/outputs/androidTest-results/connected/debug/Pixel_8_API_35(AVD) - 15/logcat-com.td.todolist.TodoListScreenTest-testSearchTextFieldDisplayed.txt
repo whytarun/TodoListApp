@@ -1,0 +1,197 @@
+09-02 08:21:48.675 21213 21242 I TestRunner: started: testSearchTextFieldDisplayed(com.td.todolist.TodoListScreenTest)
+09-02 08:21:48.717 21213 21242 W FileTestStorage: Output properties is not supported.
+09-02 08:21:48.717 21213 21242 I Tracing : Tracer added: class androidx.test.platform.tracing.AndroidXTracer
+09-02 08:21:48.725 21213 21213 D EventInjectionStrategy: Creating injection strategy with input manager.
+09-02 08:21:48.725 21213 21213 W o.todolist.test: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (unsupported, reflection, allowed)
+09-02 08:21:48.726 21213 21213 W o.todolist.test: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (unsupported, reflection, allowed)
+09-02 08:21:48.726 21213 21213 W o.todolist.test: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (unsupported, reflection, allowed)
+09-02 08:21:48.738 21213 21213 W o.todolist.test: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (unsupported, reflection, allowed)
+09-02 08:21:48.739 21213 21213 W o.todolist.test: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (unsupported, reflection, allowed)
+09-02 08:21:48.739 21213 21213 W o.todolist.test: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (unsupported, reflection, allowed)
+09-02 08:21:48.739 21213 21242 D IdlingRegistry: Registering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@f7b6a9d]
+09-02 08:21:48.750 21213 21242 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+09-02 08:21:48.757   565  1946 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@73825331 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-02 08:21:48.770   565   672 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@eafea181 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-02 08:21:48.771   409   409 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-02 08:21:48.775   364   364 D Zygote  : Forked child process 21247
+09-02 08:21:48.778 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: PRE_ON_CREATE
+09-02 08:21:48.781 21213 21213 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+09-02 08:21:48.802 21247 21247 I id.partnersetup: Using CollectorTypeCMC GC.
+09-02 08:21:48.813 21247 21247 E id.partnersetup: Not starting debugger since process cannot load the jdwp agent.
+09-02 08:21:48.823 21247 21247 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-02 08:21:48.834 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: CREATED
+09-02 08:21:48.834 21213 21213 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.activity.ComponentActivity@baeaad3
+09-02 08:21:48.836 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: STARTED
+09-02 08:21:48.836 21213 21213 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.activity.ComponentActivity@baeaad3
+09-02 08:21:48.841 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: RESUMED
+09-02 08:21:48.841 21213 21213 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.activity.ComponentActivity@baeaad3
+09-02 08:21:48.842 21247 21247 D nativeloader: Configuring clns-6 for other apk /system/framework/org.apache.http.legacy.jar. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~jsefUFIVToD8ZMJZ1FtVSQ==/com.google.android.partnersetup-rjIyf6TaAy2WTEs8V1rgOQ==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.partnersetup
+09-02 08:21:48.846 21213 21213 W HWUI    : Unknown dataspace 0
+09-02 08:21:48.848 21247 21247 D nativeloader: Configuring clns-7 for other apk /data/app/~~jsefUFIVToD8ZMJZ1FtVSQ==/com.google.android.partnersetup-rjIyf6TaAy2WTEs8V1rgOQ==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~jsefUFIVToD8ZMJZ1FtVSQ==/com.google.android.partnersetup-rjIyf6TaAy2WTEs8V1rgOQ==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.partnersetup
+09-02 08:21:48.849 21247 21247 D CompatChangeReporter: Compat change id reported: 202956589; UID 10127; state: ENABLED
+09-02 08:21:48.852 21247 21247 V GraphicsEnvironment: Currently set values for:
+09-02 08:21:48.852 21247 21247 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+09-02 08:21:48.852 21247 21247 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+09-02 08:21:48.852 21247 21247 V GraphicsEnvironment: Global.Settings values are invalid: number of packages: 0, number of values: 0
+09-02 08:21:48.852 21247 21247 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+09-02 08:21:48.869 21213 21244 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+09-02 08:21:48.869 21213 21244 I EGL_emulation: Opening libGLESv2_emulation.so
+09-02 08:21:48.879 21247 21247 D CompatChangeReporter: Compat change id reported: 311402873; UID 10127; state: ENABLED
+09-02 08:21:48.880 21247 21247 D CompatChangeReporter: Compat change id reported: 323349338; UID 10127; state: ENABLED
+09-02 08:21:48.880 21247 21247 W JobInfo : Job 'com.google.android.partnersetup/.PhenotypeJobService#1' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.880   565  1946 W JobInfo : Job 'com.google.android.partnersetup/.PhenotypeJobService#1' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.882 21213 21244 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+09-02 08:21:48.882 21213 21244 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+09-02 08:21:48.888   158   158 I hwservicemanager: getTransport: Cannot find entry android.hardware.graphics.mapper@4.0::IMapper/default in either framework or device VINTF manifest.
+09-02 08:21:48.888 21213 21244 I Gralloc4: mapper 4.x is not supported
+09-02 08:21:48.893 21247 21263 W JobInfo : Job 'com.google.android.partnersetup/.InstalledAppJobService#4096' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.894   565  1974 W JobInfo : Job 'com.google.android.partnersetup/.InstalledAppJobService#4096' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.894 21247 21247 W JobInfo : Job 'com.google.android.partnersetup/.InstalledAppJobService#4096' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.894   565  1974 W JobInfo : Job 'com.google.android.partnersetup/.InstalledAppJobService#4096' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.915   565   588 W ziparchive: Unable to open '/data/app/~~mMjLDNyDgnfY6cLN7SURnw==/com.todo.todolist.test-4c6JMKtfsbA0cIvrcxTDTQ==/base.dm': No such file or directory
+09-02 08:21:48.916   565   588 I ActivityTaskManager: Displayed com.todo.todolist.test/androidx.activity.ComponentActivity for user 0: +158ms
+09-02 08:21:48.943   565   697 I ImeTracker: com.todo.todolist.test:8654de05: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+09-02 08:21:48.943   565   697 I ImeTracker: com.todo.todolist.test:8654de05: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-02 08:21:48.947 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3184
+09-02 08:21:48.949 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2246 repeatCheckTimes = 0, locked = false
+09-02 08:21:48.949 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1982 onStartInput(EditorInfo{EditorInfo{packageName=com.todo.todolist.test, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-02 08:21:48.949 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2246 repeatCheckTimes = 1, locked = false
+09-02 08:21:48.950 32544 32544 I AndroidIME: InputBundleManager.loadActiveInputBundleId():450 loadActiveInputBundleId: und-Latn-x-password, password
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: EmojiCompatManager.getEmojiCompatIfLoaded():342 EmojiCompat.init() was never called.
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: java.lang.IllegalStateException: EmojiCompat is not initialized. Please call EmojiCompat.init() first
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at ase.g(PG:6)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at bbx.b(PG:13)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at jlq.b(PG:2)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at jlq.c(PG:4)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at jlq.f(PG:3)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at kej.onStartInput(PG:494)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.InputMethodService.doStartInput(InputMethodService.java:3396)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.startInput(InputMethodService.java:865)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.dispatchStartInput(InputMethodService.java:894)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:201)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.os.Looper.loopOnce(Looper.java:232)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.os.Looper.loop(Looper.java:317)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at android.app.ActivityThread.main(ActivityThread.java:8699)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at java.lang.reflect.Method.invoke(Native Method)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:580)
+09-02 08:21:48.951 32544 32544 I EmojiCompatManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:886)
+09-02 08:21:48.993 21247 21247 I GooglePartnerSetup: Phenotype client.register successes
+09-02 08:21:48.994 21247 21247 W JobInfo : Job 'com.google.android.partnersetup/.PhenotypeJobService#2' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:48.994   565  1946 W JobInfo : Job 'com.google.android.partnersetup/.PhenotypeJobService#2' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:49.010 21213 21231 I o.todolist.test: Compiler allocated 4206KB to compile void android.widget.TextView.<init>(android.content.Context, android.util.AttributeSet, int, int)
+09-02 08:21:49.063 21213 21231 I o.todolist.test: Compiler allocated 5046KB to compile void android.view.ViewRootImpl.performTraversals()
+09-02 08:21:49.107 21247 21263 I GooglePartnerSetup: Phenotype commit successes
+09-02 08:21:49.107 21247 21263 W JobInfo : Job 'com.google.android.partnersetup/.ClientIdJobService#8192' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:49.107   565  1946 W JobInfo : Job 'com.google.android.partnersetup/.ClientIdJobService#8192' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+09-02 08:21:49.190   978  1052 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@a460c22
+09-02 08:21:49.191   565  1946 W InputManager-JNI: Input channel object '7842ad5 Splash Screen com.todo.todolist.test (client)' was disposed without first being removed with the input manager!
+09-02 08:21:49.209  1241  1746 D EGL_emulation: app_time_stats: avg=46525.38ms min=12.23ms max=697070.12ms count=15
+09-02 08:21:49.242   565   600 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@fa5a3f18 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-02 08:21:49.248   364   364 D Zygote  : Forked child process 21270
+09-02 08:21:49.269 21270 21270 I .android.chrome: Using CollectorTypeCMC GC.
+09-02 08:21:49.270 21270 21270 E .android.chrome: Not starting debugger since process cannot load the jdwp agent.
+09-02 08:21:49.272 21270 21270 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+09-02 08:21:49.277 21270 21270 W ziparchive: Unable to open '/data/app/~~8n2_WAkm7Hd-UxhWf03CVA==/com.google.android.trichromelibrary_653310333-dAZAju1E85BYBZe_9WEHog==/base.dm': No such file or directory
+09-02 08:21:49.277 21270 21270 W ziparchive: Unable to open '/data/app/~~8n2_WAkm7Hd-UxhWf03CVA==/com.google.android.trichromelibrary_653310333-dAZAju1E85BYBZe_9WEHog==/base.dm': No such file or directory
+09-02 08:21:49.278 21270 21270 W .android.chrome: Entry not found
+09-02 08:21:49.278 21270 21270 D nativeloader: Configuring clns-6 for other apk /data/app/~~8n2_WAkm7Hd-UxhWf03CVA==/com.google.android.trichromelibrary_653310333-dAZAju1E85BYBZe_9WEHog==/base.apk. target_sdk_version=35, uses_libraries=ALL, library_path=/data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/lib/arm64:/data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk!/lib/arm64-v8a:/data/app/~~8n2_WAkm7Hd-UxhWf03CVA==/com.google.android.trichromelibrary_653310333-dAZAju1E85BYBZe_9WEHog==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.chrome
+09-02 08:21:49.279 21270 21270 D ApplicationLoaders: Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+09-02 08:21:49.284 21270 21270 D nativeloader: Configuring clns-7 for other apk /data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/lib/arm64:/data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk!/lib/arm64-v8a:/data/app/~~8n2_WAkm7Hd-UxhWf03CVA==/com.google.android.trichromelibrary_653310333-dAZAju1E85BYBZe_9WEHog==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.android.chrome
+09-02 08:21:49.286 21270 21270 D CompatChangeReporter: Compat change id reported: 202956589; UID 10136; state: ENABLED
+09-02 08:21:49.290 21270 21270 V GraphicsEnvironment: Currently set values for:
+09-02 08:21:49.290 21270 21270 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+09-02 08:21:49.290 21270 21270 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+09-02 08:21:49.290 21270 21270 V GraphicsEnvironment: Global.Settings values are invalid: number of packages: 0, number of values: 0
+09-02 08:21:49.290 21270 21270 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+09-02 08:21:49.291 21270 21270 I LoadedApk: No resource references to update in package com.google.android.trichromelibrary
+09-02 08:21:49.293 21270 21270 I cr_SplitCompatApp: version=127.0.6533.103 (653310333) minSdkVersion=29 isBundle=true processName=com.android.chrome isIsolatedProcess=false
+09-02 08:21:49.312 15629 19798 I FontLog : (REDACTED) Received query %s, URI %s
+09-02 08:21:49.312 15629 19798 I FontLog : (REDACTED) Query [%s] resolved to %s
+09-02 08:21:49.312 21270 21287 I cr_LibraryLoader: Loading monochrome_64 from within /data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk
+09-02 08:21:49.313 15629 19798 I FontLog : (REDACTED) Font PFD returned from cache for %s
+09-02 08:21:49.313 15629 19798 I FontLog : (REDACTED) Fetch %s end status %s
+09-02 08:21:49.313 15629 19798 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-02 08:21:49.314 21270 21287 D nativeloader: Load /data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk!/lib/arm64-v8a/libchromium_android_linker.so using ns clns-7 from class loader (caller=/data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk): ok
+09-02 08:21:49.314 21270 21287 I cr_Linker: loadLibraryImplLocked: monochrome_64, relroMode=1
+09-02 08:21:49.316 15629 19798 I FontLog : (REDACTED) Received query %s, URI %s
+09-02 08:21:49.317 15629 19798 I FontLog : (REDACTED) Query [%s] resolved to %s
+09-02 08:21:49.317 15629 19798 I FontLog : (REDACTED) Font PFD returned from cache for %s
+09-02 08:21:49.318 15629 19798 I FontLog : (REDACTED) Fetch %s end status %s
+09-02 08:21:49.319 15629 19798 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-02 08:21:49.323 15629 15694 I FontLog : (REDACTED) Received query %s, URI %s
+09-02 08:21:49.323 15629 15694 I FontLog : (REDACTED) Query [%s] resolved to %s
+09-02 08:21:49.324 20315 20315 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-02 08:21:49.324 15629 15694 I FontLog : (REDACTED) Font PFD returned from cache for %s
+09-02 08:21:49.324 15629 15694 I FontLog : (REDACTED) Fetch %s end status %s
+09-02 08:21:49.325 15629 19798 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-02 08:21:49.337 21270 21287 D nativeloader: Load /data/app/~~8n2_WAkm7Hd-UxhWf03CVA==/com.google.android.trichromelibrary_653310333-dAZAju1E85BYBZe_9WEHog==/base.apk!/lib/arm64-v8a/libmonochrome_64.so using ns clns-7 from class loader (caller=/data/app/~~FHptINjFsV8jNuNHMHWUgQ==/com.android.chrome-t3SOF6U36R9rQ6P9ZpbmAA==/base.apk): ok
+09-02 08:21:49.344 21213 21213 I System.out: vales....[Todo(title=Sample Todo 1, id=1), Todo(title=Sample Todo 2, id=2)]
+09-02 08:21:49.348 15629 19798 I FontLog : (REDACTED) Received query %s, URI %s
+09-02 08:21:49.348 15629 19798 I FontLog : (REDACTED) Query [%s] resolved to %s
+09-02 08:21:49.351 15629 19798 I FontLog : (REDACTED) Fetch %s end status %s
+09-02 08:21:49.353 15629 19798 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-02 08:21:49.363 15629 19798 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+09-02 08:21:49.375   978  1110 D EGL_emulation: app_time_stats: avg=37372.16ms min=37372.16ms max=37372.16ms count=1
+09-02 08:21:49.375 21270 21287 I cr_LibraryLoader: Successfully loaded native library
+09-02 08:21:49.380 21270 21287 I cr_CachingUmaRecorder: Flushed 23 samples from 20 histograms, 0 samples were dropped.
+09-02 08:21:49.446 21213 21213 W o.todolist.test: Method boolean androidx.compose.runtime.snapshots.SnapshotStateList.conditionalUpdate(boolean, kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+09-02 08:21:49.446 21213 21213 W o.todolist.test: Common causes for lock verification issues are non-optimized dex code
+09-02 08:21:49.446 21213 21213 W o.todolist.test: and incorrect proguard optimizations.
+09-02 08:21:49.446 21213 21213 W o.todolist.test: Method boolean androidx.compose.runtime.snapshots.SnapshotStateList.conditionalUpdate$default(androidx.compose.runtime.snapshots.SnapshotStateList, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) failed lock verification and will run slower.
+09-02 08:21:49.446 21213 21213 W o.todolist.test: Method java.lang.Object androidx.compose.runtime.snapshots.SnapshotStateList.mutate(kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+09-02 08:21:49.446 21213 21213 W o.todolist.test: Method void androidx.compose.runtime.snapshots.SnapshotStateList.update(boolean, kotlin.jvm.functions.Function1) failed lock verification and will run slower.
+09-02 08:21:49.446 21213 21213 W o.todolist.test: Method void androidx.compose.runtime.snapshots.SnapshotStateList.update$default(androidx.compose.runtime.snapshots.SnapshotStateList, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) failed lock verification and will run slower.
+09-02 08:21:49.575   565  1946 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@73825331 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+09-02 08:21:49.581 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: PAUSED
+09-02 08:21:49.581 21213 21213 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=androidx.activity.ComponentActivity@baeaad3
+09-02 08:21:49.584 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a in: PRE_ON_CREATE
+09-02 08:21:49.584 21213 21213 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.todo.todolist.test/androidx.activity.ComponentActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.todo.todolist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a
+09-02 08:21:49.587   409   409 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-02 08:21:49.589 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a in: CREATED
+09-02 08:21:49.589 21213 21213 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.todo.todolist.test/androidx.activity.ComponentActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.todo.todolist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a
+09-02 08:21:49.589 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a in: STARTED
+09-02 08:21:49.589 21213 21213 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.todo.todolist.test/androidx.activity.ComponentActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.todo.todolist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a
+09-02 08:21:49.590 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a in: RESUMED
+09-02 08:21:49.590 21213 21213 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.todo.todolist.test/androidx.activity.ComponentActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.todo.todolist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a
+09-02 08:21:49.612   565   588 I ActivityTaskManager: Displayed com.todo.todolist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +36ms
+09-02 08:21:49.614 21213 21213 D VRI[ComponentActivity]: visibilityChanged oldVisibility=true newVisibility=false
+09-02 08:21:49.624 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: STOPPED
+09-02 08:21:49.624 21213 21213 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=androidx.activity.ComponentActivity@baeaad3
+09-02 08:21:49.631 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.activity.ComponentActivity@baeaad3 in: DESTROYED
+09-02 08:21:49.631 21213 21213 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+09-02 08:21:49.632 21213 21213 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@9c1cbe9
+09-02 08:21:49.633   565  1921 W InputManager-JNI: Input channel object 'd41ec3e com.todo.todolist.test/androidx.activity.ComponentActivity (client)' was disposed without first being removed with the input manager!
+09-02 08:21:49.637 21213 21213 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a in: PAUSED
+09-02 08:21:49.637 21213 21213 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.todo.todolist.test/androidx.activity.ComponentActivity }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.todo.todolist.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }, activity=androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity@cfc415a
+09-02 08:21:49.638   409   409 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-02 08:21:49.641   565   697 I ImeTracker: com.todo.todolist.test:51a3d628: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+09-02 08:21:49.641   565   697 I ImeTracker: com.todo.todolist.test:51a3d628: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-02 08:21:49.643 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3184
+09-02 08:21:49.645 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2246 repeatCheckTimes = 0, locked = false
+09-02 08:21:49.645 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1982 onStartInput(EditorInfo{EditorInfo{packageName=com.todo.todolist.test, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+09-02 08:21:49.645 32544 32544 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2246 repeatCheckTimes = 1, locked = false
+09-02 08:21:49.645 32544 32544 I AndroidIME: InputBundleManager.loadActiveInputBundleId():450 loadActiveInputBundleId: und-Latn-x-password, password
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: EmojiCompatManager.getEmojiCompatIfLoaded():342 EmojiCompat.init() was never called.
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: java.lang.IllegalStateException: EmojiCompat is not initialized. Please call EmojiCompat.init() first
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at ase.g(PG:6)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at bbx.b(PG:13)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at jlq.b(PG:2)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at jlq.c(PG:4)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at jlq.f(PG:3)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at kej.onStartInput(PG:494)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.InputMethodService.doStartInput(InputMethodService.java:3396)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.startInput(InputMethodService.java:865)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.InputMethodService$InputMethodImpl.dispatchStartInput(InputMethodService.java:894)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.inputmethodservice.IInputMethodWrapper.executeMessage(IInputMethodWrapper.java:201)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at com.android.internal.os.HandlerCaller$MyHandler.handleMessage(HandlerCaller.java:44)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.os.Handler.dispatchMessage(Handler.java:107)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.os.Looper.loopOnce(Looper.java:232)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.os.Looper.loop(Looper.java:317)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at android.app.ActivityThread.main(ActivityThread.java:8699)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at java.lang.reflect.Method.invoke(Native Method)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:580)
+09-02 08:21:49.645 32544 32544 I EmojiCompatManager: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:886)
+09-02 08:21:49.655 21213 21242 D IdlingRegistry: Unregistering idling resources: [androidx.compose.ui.test.junit4.EspressoLink@f7b6a9d]
+09-02 08:21:49.656 21213 21242 I TestRunner: finished: testSearchTextFieldDisplayed(com.td.todolist.TodoListScreenTest)

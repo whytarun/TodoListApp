@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml:2:13-83
-INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml:2:13-83
+ADDED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml:2:13-83
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml:2:13-83
 	package
-		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml
+		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml
 	xmlns:android
-		ADDED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml:2:23-81
+		ADDED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml:2:23-81
 uses-sdk
-INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml reason: use-sdk injection requested
-INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml
-INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml reason: use-sdk injection requested
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml
 	android:targetSdkVersion
-		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml
+		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml
 	android:minSdkVersion
-		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11026548301396382345.xml
+		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/todoApp/core/designssystem/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3425979624210411169.xml

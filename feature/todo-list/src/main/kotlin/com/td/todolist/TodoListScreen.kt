@@ -27,9 +27,11 @@ import com.td.todolist.util.UiEvent
 import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
+import com.td.designssystem.R
 
 
 @Composable
@@ -67,7 +69,7 @@ import androidx.compose.ui.unit.sp
                 modifier = Modifier
                     .fillMaxWidth()
                     .padding(16.dp)
-                    .padding(top =10.dp)
+                    .padding(top = 10.dp)
             )
 
             // List or Empty Message
@@ -78,7 +80,7 @@ import androidx.compose.ui.unit.sp
                         .padding(16.dp),
                     contentAlignment = Alignment.Center
                 ) {
-                    Text(text = "Press the + button to add a TODO item",
+                    Text(text = stringResource(R.string.press_the_button_to_add_a_todo_item),
                         color = Color.Black,
                         fontWeight = FontWeight.Bold,
                         style = TextStyle(fontSize = 16.sp)
@@ -121,7 +123,7 @@ import androidx.compose.ui.unit.sp
             ) {
                 Icon(
                     imageVector = Icons.Default.Add,
-                    contentDescription = "Add"
+                    contentDescription = stringResource(R.string.add)
                 )
             }
         }
