@@ -1,7 +1,7 @@
 # TODO List App
 
 ## Overview
-The TODO List App is a simple and intuitive application designed to help users manage their tasks and to-dos efficiently. The app allows users to addtask, organize them into different categories, and track their progress. It provides a clean and user-friendly interface to ensure a smooth task management experience.
+The TODO List App is a simple and intuitive application designed to help users manage their tasks and to-dos efficiently. The app allows users to addtask It provides a clean and user-friendly interface to ensure a smooth task management experience.
 
 ## Key Features
 - **Add Tasks:** Users can easily add new tasks.
