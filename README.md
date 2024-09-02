@@ -8,7 +8,7 @@ The TODO List App is a simple and intuitive application designed to help users m
 - **Search Functionality:** Search for tasks by title.
 
 ## Technical Requirements
-- **Android SDK:** Targeting Android API level 21 and above.
+- **Android SDK:** Targeting Android API level 24 and above.
 - **Kotlin:** The app is written in Kotlin.
 - **Jetpack Compose:** For building the UI components.
 - **Kotlin Coroutines:** For asynchronous operations.
