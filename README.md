@@ -22,7 +22,6 @@ The app is structured using a multi-module architecture to promote modularity an
 - **Feature Module:** Contains the core functionality of the TODO list, including screens and view models.
 - **Core Module:** Contains common components shared across the application.
 - **Data Module:** Manages data-related operations and data sources.
-- **Domain Module:** Contains business logic and domain-specific operations.
 - **Database Module:** Handles local data storage and database interactions.
 - **DesignSystem Module:** Includes design and UI components for consistent styling.
 - **UI Module:** Contains the Composable functions and UI-related code.
@@ -37,4 +36,3 @@ The app is structured using a multi-module architecture to promote modularity an
 ## Testing Strategy
 - **Unit Testing:** Uses JUnit and MockK for testing ViewModels and other components in isolation.
 - **UI Testing:** Employs Jetpack Compose testing tools to ensure the UI components work as expected.
-- **Integration Testing:** Tests the interaction between various modules to ensure seamless functionality.
